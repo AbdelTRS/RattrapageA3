@@ -12,3 +12,5 @@ Voici un screenshot montrant le bot fonctionnel
 
 ![Capture d’écran 2022-07-23 122648](https://user-images.githubusercontent.com/63633497/180601423-511788c8-282b-409a-98cb-504b19540a7a.png)
 
+Vidéo explicative
+https://youtu.be/tT9RqdPMo3w
